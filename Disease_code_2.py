@@ -35,7 +35,7 @@ def train_test(train, test):
 
     predict = rfc.predict(x_test)
 
-    print(confusion_matrix(predict, y_test))
+    print(confusion_matrix(y_test,predict))
     print(f"accuracy : {np.mean(predict == y_test)}")
 
     plt.plot(y_test, predict, color='green')
