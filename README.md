@@ -12,6 +12,6 @@ Else it directly goes to Step 3.
 
 (2) Here every possible symptom was asked and then the disease was predicted.
 
-(3) Here it open your google chrome browser and searches for the treatment/remedy for the disease predicted.
+Now, finally it opens your google chrome browser and searches for the treatment/remedy for the disease predicted.
 
 Currently taking inputs randomly, to give user input just comment out the random input lines and uncomment the user input lines.
